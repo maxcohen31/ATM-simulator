@@ -1,5 +1,5 @@
 # ATM-simulator
-OOP atm simulator in C++
+OOP ATM simulator in C++
 
 # Considerations
 This code was made principally for practicing OOP in C++.
